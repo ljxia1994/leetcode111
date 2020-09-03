@@ -1,4 +1,4 @@
-//////寻找数组B中的字符串在数组A中的位置 126
+//////寻找数组B中的字符串在数组A中的位置 127
 //#include<iostream>
 //#include<vector>
 //#include<cstring>
